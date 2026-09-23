@@ -24,8 +24,8 @@ Um *documento* é um Google Doc de trabalho do autor com uma ou mais sessões de
 | Grupo | Documentos | Palavras |
 |---|---:|---:|
 | Metodologia multi-IA (M01–M14) | 14 | 911.603 |
-| Pesquisa acadêmica (P01–P06) | 6 | 663.018 |
-| Sessões mistas (S01–S05) | 5 | 867.931 |
+| Pesquisa acadêmica (P01–P06) | 6 | 663.024 |
+| Sessões mistas (S01–S05) | 5 | 867.920 |
 
 **É uma amostra?**
 É uma seleção. A pasta de origem tinha 32 documentos; 7 foram excluídos por tratarem de assuntos pessoais, administrativos ou de negócios, e 24 trocas com dados pessoais sensíveis foram retiradas dos documentos incluídos (ver [`ANONIMIZACAO.md`](ANONIMIZACAO.md)).

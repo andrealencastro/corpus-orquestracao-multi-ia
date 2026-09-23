@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "Se usar este corpus, cite-o como indicado abaixo."
+type: dataset
+title: "Corpus de Orquestração Multi-IA: diálogos de um pesquisador com ChatGPT, Gemini, Claude e Perplexity (2025–2026)"
+version: "1.0.0"
+date-released: "2026-09-23"
+license: CC-BY-4.0
+authors:
+  - family-names: "Alencastro Curado Filho"
+    given-names: "André"
+repository-code: "https://github.com/andrealencastro/corpus-orquestracao-multi-ia"
+url: "https://github.com/andrealencastro/corpus-orquestracao-multi-ia"
+abstract: >-
+  Naturalistic corpus of 25 working documents (about 2.44 million words and
+  2,432 speaker turns) in which a single researcher orchestrates several large
+  language models (OpenAI ChatGPT, Google Gemini, Anthropic Claude and
+  Perplexity) within the same sessions for academic research, prompt
+  engineering and deep-research planning, recorded between 2025 and 2026.
+  Mostly Portuguese, with English and French. Personal data were masked or
+  removed before release. Includes per-document and per-turn metadata (CSV),
+  a datasheet, a codebook and a reproducible extraction script.
+keywords:
+  - interação humano-IA
+  - human-AI interaction
+  - large language models
+  - multi-LLM orchestration
+  - prompt engineering
+  - deep research
+  - corpus
+  - Portuguese
+  - ChatGPT
+  - Gemini
+  - Claude
+  - Perplexity

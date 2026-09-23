@@ -25,7 +25,7 @@ Este repositório reúne 25 documentos de trabalho em que o autor conduz sessõe
 | Grupo | Documentos | Palavras | Do que trata |
 |---|---:|---:|---|
 | [Metodologia multi-IA](corpus/metodologia-multi-ia/) | 14 | 911.603 | orquestração de vários modelos, engenharia de prompts, *deep research* e criação de GPTs/Gems |
-| [Pesquisa acadêmica](corpus/pesquisa-academica/) | 6 | 663.018 | projetos de mestrado, TCCs, propostas de pesquisa, problemas matemáticos e ementas |
+| [Pesquisa acadêmica](corpus/pesquisa-academica/) | 6 | 663.024 | projetos de mestrado, TCCs, propostas de pesquisa, problemas matemáticos e ementas |
 | [Sessões mistas](corpus/sessoes-mistas/) | 5 | 867.920 | sessões de *Deep Guide*, *Prompt Instructor* e *Prompts e Respostas* sobre temas variados |
 
 ```

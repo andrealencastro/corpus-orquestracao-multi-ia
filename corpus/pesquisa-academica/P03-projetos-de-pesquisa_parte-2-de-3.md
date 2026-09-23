@@ -3931,7 +3931,7 @@ A1. **Evidência é ganho preditivo útil**: (E \\propto \\Delta \\log \\text{pr
 # **3\) Métrica central (proposta)**
 
 Para hipótese (H) sob modelo (M) e teste (T):  
-&nbsp;![][image2]
+&nbsp;![](img/P03-image2.png)
 
 * **BF**: Bayes factor com prior empírico/informativo.
 

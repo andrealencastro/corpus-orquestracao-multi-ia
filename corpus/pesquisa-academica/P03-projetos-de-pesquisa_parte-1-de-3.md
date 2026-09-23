@@ -2565,7 +2565,7 @@ Me manda esses dois inputs (e me diz qual das três linhas, ou deixa que eu reco
 
 # Eu:
 
-![][image1]
+![](img/P03-image1.png)
 
 Considere a imagem em anexo, por favor. Por que podemos falar em capital cultural e social, mas não em capital físico ou mental?
 
